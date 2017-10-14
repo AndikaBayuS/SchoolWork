@@ -1,0 +1,78 @@
+body{
+	background: #263238;
+	padding: 100px;
+}
+#register{
+margin: auto;
+width: 300px; border: 1px solid #d6d7da;
+padding: 0px 15px 15px 15px;
+border-radius: 5px;font-family: arial;
+line-height: 16px;color: #333333; font-size: 14px;
+background: #ffffff;rgba(200,200,200,0.7) 0 4px 10px -1px
+}
+#verif{
+max-width: 340px;
+margin: 100px auto;
+margin-top: 2%;
+background: #f9f9f9;
+box-shadow: 0 0 10px #aaa;
+}
+#register
+h3{color:#365d98;}
+form label{font-weight: bold;}
+form label, form input{display: block;margin-bottom: 5px;width: 90%;}
+form input{
+	border: solid 1px #666666;padding: 10px;
+	border: solid 1px #BDC7D8;margin-bottom: 20px;
+}
+.button{
+	background-color: #5fcf80;
+	border-color: #3ac162;
+	font-weight: bold;
+	padding: 12px 15px;
+	max-width: 100px;
+	color: #ffffff;
+}
+.hasil .email{
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	font-family: arial;
+	color: black;
+	font-weight: bold;
+}
+.hasil .name{
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	font-family: arial;
+	color: black;
+	font-weight: bold;
+	
+}
+.hasil .username{
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	font-family: arial;
+	color: black;
+	font-weight: bold;
+}
+.hasil .password{
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	font-family: arial;
+	color: black;
+	font-weight: bold;
+}
+.Header {
+	font-family: arial;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px;
+}
