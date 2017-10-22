@@ -6,16 +6,21 @@
 </head>
 <body>
 <?php
-	
-$host= "localhost";
-$user= "root";
+$host = "localhost";
+$user = "root";
 $password= "";
 $email=$_GET['email'];
 $name=$_GET['name'];
 $username=$_GET['username'];
-$password=$_GET['password'];
+$userpassword=$_GET['password'];
+ 	if($username)
+ 	{
+ 		$conn=mysqli_connect ($host,$user,$password);
+ 		mysqli_select_db ($conn,'dbuser');
+ 		$sql="insert into tinfo values('$name','$username','$email','$userpassword')";
+ 		$hasil=mysqli_query($conn,$sql);
+ 	}
 ?>
-
 <div id="verif">
 	<div class="Header">Your Login Info</div>
 	<div class="hasil">
@@ -32,7 +37,7 @@ $password=$_GET['password'];
 		</div>
 
 		<div class="password">
-			Password : <?php echo" $password" ?><br>
+			Password : <?php echo" $userpassword" ?><br>
 		</div>
 
 	</div>
