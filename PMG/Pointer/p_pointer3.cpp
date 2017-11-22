@@ -1,6 +1,7 @@
 #include "stdio.h"
 #include "conio.h"
-main()
+
+int main()
 {
 	int nilai[3], *penunjuk;
 	nilai[0] = 125;

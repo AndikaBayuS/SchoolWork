@@ -1,10 +1,11 @@
 #include "stdio.h"
 #include "conio.h"
-char *nama1 ="SPIDERMAN";
-char *nama2 ="GATOTKACA";
-main()
+
+static const char *nama1 = "SPIDERMAN";
+static const char *nama2 = "GATOTKACA";
+
+int main()
 {
-	char namax;
 	puts("SEMULA : ");
 	printf("Saya suka >> %s\n", nama1);
 	printf("Tapi saya juga suka >> %s\n", nama2);
