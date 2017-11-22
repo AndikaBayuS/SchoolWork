@@ -1,10 +1,11 @@
 #include "stdio.h"
 #include "conio.h"
-main()
+
+int main()
 {
-	int x,y;
+	int x, y;
 	int *px;
-	x= 87;
+	x = 87;
 	px = &x;
 	y = *px;
 	
