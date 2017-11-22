@@ -1,0 +1,8 @@
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatFungsiText\LatFungsiText\bin\Debug\LatFungsiText.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatFungsiText\LatFungsiText\bin\Debug\LatFungsiText.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatFungsiText\LatFungsiText\bin\Debug\LatFungsiText.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatFungsiText\LatFungsiText\obj\x86\Debug\LatFungsiText.Resources.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatFungsiText\LatFungsiText\obj\x86\Debug\LatFungsiText.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatFungsiText\LatFungsiText\obj\x86\Debug\LatFungsiText.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatFungsiText\LatFungsiText\obj\x86\Debug\LatFungsiText.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatFungsiText\LatFungsiText\obj\x86\Debug\LatFungsiText.pdb

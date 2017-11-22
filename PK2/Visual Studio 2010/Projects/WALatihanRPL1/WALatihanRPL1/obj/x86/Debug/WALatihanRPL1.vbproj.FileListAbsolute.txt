@@ -1,0 +1,23 @@
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\bin\Debug\WALatihanRPL1.exe
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\bin\Debug\WALatihanRPL1.pdb
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\bin\Debug\WALatihanRPL1.xml
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.FrmVariabel.resources
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.FrmInputBox.resources
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.Resources.resources
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.exe
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.xml
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.pdb
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.FrmSeleksi.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\bin\Debug\WALatihanRPL1.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\bin\Debug\WALatihanRPL1.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\bin\Debug\WALatihanRPL1.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.FrmVariabel.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.FrmInputBox.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.FrmSeleksi.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.Resources.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WALatihanRPL1\WALatihanRPL1\obj\x86\Debug\WALatihanRPL1.LatArray.resources

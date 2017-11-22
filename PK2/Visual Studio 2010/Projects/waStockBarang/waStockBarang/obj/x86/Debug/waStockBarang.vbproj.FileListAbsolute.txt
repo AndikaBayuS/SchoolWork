@@ -1,0 +1,23 @@
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\waStockBarang\bin\Debug\waStockBarang.exe
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\waStockBarang\bin\Debug\waStockBarang.pdb
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\waStockBarang\bin\Debug\waStockBarang.xml
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\waStockBarang\obj\x86\Debug\waStockBarang.Resources.resources
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\waStockBarang\obj\x86\Debug\waStockBarang.SplashScreen1.resources
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\waStockBarang\obj\x86\Debug\waStockBarang.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\waStockBarang\obj\x86\Debug\waStockBarang.exe
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\waStockBarang\obj\x86\Debug\waStockBarang.xml
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\waStockBarang\obj\x86\Debug\waStockBarang.pdb
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.exe
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.xml
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.pdb
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.FLogin.resources
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.Fmenu.resources
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.Resources.resources
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.SplashScreen1.resources
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\bin\Debug\waStockBarang.exe
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\bin\Debug\waStockBarang.pdb
+C:\Users\Andika Bayu Santoso\documents\visual studio 2010\Projects\waStockBarang\waStockBarang\bin\Debug\waStockBarang.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.FBarang.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.FPelanggan.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Debug\waStockBarang.FSupplier.resources

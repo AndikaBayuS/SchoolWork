@@ -1,0 +1,8 @@
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatArray\LatArray\obj\x86\Debug\LatArray.Resources.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatArray\LatArray\obj\x86\Debug\LatArray.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatArray\LatArray\bin\Debug\LatArray.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatArray\LatArray\bin\Debug\LatArray.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatArray\LatArray\bin\Debug\LatArray.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatArray\LatArray\obj\x86\Debug\LatArray.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatArray\LatArray\obj\x86\Debug\LatArray.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\LatArray\LatArray\obj\x86\Debug\LatArray.pdb

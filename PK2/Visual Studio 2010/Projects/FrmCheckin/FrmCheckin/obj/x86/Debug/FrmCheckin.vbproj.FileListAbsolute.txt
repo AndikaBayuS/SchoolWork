@@ -1,0 +1,9 @@
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\FrmCheckin\FrmCheckin\obj\x86\Debug\FrmCheckin.Resources.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\FrmCheckin\FrmCheckin\obj\x86\Debug\FrmCheckin.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\FrmCheckin\FrmCheckin\bin\Debug\FormCheckin.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\FrmCheckin\FrmCheckin\bin\Debug\FormCheckin.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\FrmCheckin\FrmCheckin\bin\Debug\FormCheckin.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\FrmCheckin\FrmCheckin\obj\x86\Debug\FrmCheckin.Form_Kamar.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\FrmCheckin\FrmCheckin\obj\x86\Debug\FormCheckin.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\FrmCheckin\FrmCheckin\obj\x86\Debug\FormCheckin.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\FrmCheckin\FrmCheckin\obj\x86\Debug\FormCheckin.pdb

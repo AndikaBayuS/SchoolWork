@@ -1,0 +1,18 @@
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\WAKesiswaan\bin\Debug\WAKesiswaan.exe
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\WAKesiswaan\bin\Debug\WAKesiswaan.pdb
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\WAKesiswaan\bin\Debug\WAKesiswaan.xml
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\WAKesiswaan\obj\x86\Debug\WAKesiswaan.FrmBiodata.resources
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\WAKesiswaan\obj\x86\Debug\WAKesiswaan.Resources.resources
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\WAKesiswaan\obj\x86\Debug\WAKesiswaan.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\WAKesiswaan\obj\x86\Debug\WAKesiswaan.exe
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\WAKesiswaan\obj\x86\Debug\WAKesiswaan.xml
+C:\Users\Andika Bayu Santoso\AppData\Local\Temporary Projects\WAKesiswaan\obj\x86\Debug\WAKesiswaan.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WAKesiswaan\WAKesiswaan\obj\x86\Debug\WAKesiswaan.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WAKesiswaan\WAKesiswaan\obj\x86\Debug\WAKesiswaan.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WAKesiswaan\WAKesiswaan\obj\x86\Debug\WAKesiswaan.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WAKesiswaan\WAKesiswaan\bin\Debug\WAKesiswaan.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WAKesiswaan\WAKesiswaan\bin\Debug\WAKesiswaan.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WAKesiswaan\WAKesiswaan\bin\Debug\WAKesiswaan.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WAKesiswaan\WAKesiswaan\obj\x86\Debug\WAKesiswaan.FrmBiodata.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WAKesiswaan\WAKesiswaan\obj\x86\Debug\WAKesiswaan.Resources.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\WAKesiswaan\WAKesiswaan\obj\x86\Debug\WAKesiswaan.vbproj.GenerateResource.Cache

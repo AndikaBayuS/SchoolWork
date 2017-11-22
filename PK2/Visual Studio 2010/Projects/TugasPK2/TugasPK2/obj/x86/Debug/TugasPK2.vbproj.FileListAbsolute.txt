@@ -1,0 +1,21 @@
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.Form1.resources
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.Resources.resources
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\bin\Debug\TugasPK2.exe
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\bin\Debug\TugasPK2.pdb
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\bin\Debug\TugasPK2.xml
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.exe
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.xml
+C:\Users\Andika Bayu\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.Form1.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.FrmTugas.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.LatFungsiText.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.Resources.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\bin\Debug\TugasPK2.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\bin\Debug\TugasPK2.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\bin\Debug\TugasPK2.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\TugasPK2\TugasPK2\obj\x86\Debug\TugasPK2.Form_CheckIn.resources

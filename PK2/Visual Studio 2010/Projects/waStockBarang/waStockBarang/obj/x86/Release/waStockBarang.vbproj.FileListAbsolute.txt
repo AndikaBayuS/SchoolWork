@@ -1,0 +1,13 @@
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\bin\Release\waStockBarang.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\bin\Release\waStockBarang.pdb
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\bin\Release\waStockBarang.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.FBarang.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.FLogin.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.FMenu.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.FPelanggan.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.Resources.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.SplashScreen1.resources
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.vbproj.GenerateResource.Cache
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.exe
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.xml
+C:\Users\Andika Bayu Santoso\Documents\Visual Studio 2010\Projects\waStockBarang\waStockBarang\obj\x86\Release\waStockBarang.pdb
